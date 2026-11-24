@@ -1,0 +1,72 @@
+{
+  "slug": "sample-veldmark-budget-vote",
+  "sample": true,
+  "topic": "world",
+  "label": "Fact",
+  "headline": "Sample: Fictional Veldmark parliament delays placeholder budget vote by one week",
+  "dek": "A sample article showing how {{name}} separates confirmed facts, attributed claims and open questions. Veldmark is a fictional country.",
+  "publishedAt": "2026-11-08T09:30:00Z",
+  "updatedAt": "2026-11-09T07:15:00Z",
+  "whatHappened": [
+    "The parliament of Veldmark, a fictional country used for this sample, voted to postpone a placeholder budget vote from 10 November to 17 November 2026 (sample dates).",
+    "The postponement motion passed by a placeholder margin of 101 to 87, according to the sample parliamentary record linked below."
+  ],
+  "whyItMatters": [
+    "In this sample, the delay pushes the fictional budget past a placeholder fiscal deadline, which would show readers how a procedural vote can carry real consequences."
+  ],
+  "confirmed": [
+    "The vote was rescheduled to 17 November 2026 (sample record).",
+    "The motion passed 101 to 87 (sample record)."
+  ],
+  "attributed": [
+    {
+      "claim": "The delay was needed to finish a placeholder cost review.",
+      "attributedTo": "the fictional Veldmark Finance Ministry, in a sample statement"
+    },
+    {
+      "claim": "The delay is a stalling tactic.",
+      "attributedTo": "a fictional opposition group, in a sample press release"
+    }
+  ],
+  "unknown": [
+    "Whether the placeholder cost review will be published before the new vote date.",
+    "Whether the fictional fiscal deadline can be extended."
+  ],
+  "sources": [
+    {
+      "title": "Sample parliamentary voting record (placeholder)",
+      "publisher": "Example.org placeholder",
+      "url": "https://example.org/sample/veldmark/vote-record",
+      "type": "primary"
+    },
+    {
+      "title": "Sample finance ministry statement (placeholder)",
+      "publisher": "Example.org placeholder",
+      "url": "https://example.org/sample/veldmark/ministry-statement",
+      "type": "primary"
+    },
+    {
+      "title": "Sample opposition press release (placeholder)",
+      "publisher": "Example.org placeholder",
+      "url": "https://example.org/sample/veldmark/opposition-release",
+      "type": "secondary"
+    }
+  ],
+  "changelog": [
+    {
+      "at": "2026-11-08T09:30:00Z",
+      "note": "Sample article published."
+    },
+    {
+      "at": "2026-11-09T07:15:00Z",
+      "note": "Added the placeholder vote margin from the sample record."
+    }
+  ],
+  "corrections": [
+    {
+      "at": "2026-11-09T07:15:00Z",
+      "note": "Sample correction: an earlier version gave the new vote date as 16 November; the sample record says 17 November."
+    }
+  ],
+  "pullQuote": "A procedural vote can carry real consequences when it pushes a budget past a deadline."
+}

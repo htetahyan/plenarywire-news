@@ -1,0 +1,47 @@
+{
+  "slug": "sample-live-veldmark-coalition-talks",
+  "type": "liveblog",
+  "developing": true,
+  "sample": true,
+  "topic": "world",
+  "label": "Fact",
+  "headline": "Sample live updates: Fictional Veldmark coalition talks enter second day",
+  "dek": "A sample live blog that tests the {{name}} developing-story template. Veldmark and every party, person and document mentioned are fictional placeholders.",
+  "publishedAt": "2026-11-09T05:30:00Z",
+  "updatedAt": "2026-11-09T09:40:00Z",
+  "keyPoints": [
+    "Two fictional Veldmark parties resumed placeholder coalition talks on a second day (sample).",
+    "A sample joint statement says no agreement has been reached yet.",
+    "A placeholder deadline for forming a government falls at the end of the month (sample)."
+  ],
+  "updates": [
+    { "id": "u5", "at": "2026-11-09T09:40:00Z", "title": "Talks pause for the day", "body": ["Both fictional delegations left the placeholder venue. A sample notice says talks resume tomorrow."] },
+    { "id": "u4", "at": "2026-11-09T08:55:00Z", "title": "Sample joint statement: no agreement yet", "body": ["A sample joint statement from the two fictional parties says they have \"made progress\" but have not agreed on a budget framework. This is an attributed claim from the parties, not a verified outcome."] },
+    { "id": "u3", "at": "2026-11-09T07:20:00Z", "title": "Placeholder deadline confirmed", "body": ["The fictional Veldmark constitutional office confirmed, in a sample notice, that the placeholder deadline for forming a government is 30 November 2026."] },
+    { "id": "u2", "at": "2026-11-09T06:10:00Z", "title": "Delegations arrive", "body": ["Delegations from both fictional parties arrived at the placeholder venue, according to a sample schedule."] },
+    { "id": "u1", "at": "2026-11-09T05:30:00Z", "title": "Sample live coverage begins", "body": ["This sample live blog follows the second day of fictional coalition talks. Updates appear newest first."] }
+  ],
+  "whatHappened": [],
+  "whyItMatters": [
+    "In this sample, the outcome would decide who governs the fictional state and whether the placeholder budget can pass before its deadline."
+  ],
+  "confirmed": [
+    "Talks resumed for a second day (sample schedule).",
+    "The placeholder deadline is 30 November 2026 (sample notice)."
+  ],
+  "attributed": [
+    { "claim": "The parties have made progress.", "attributedTo": "the two fictional parties, in a sample joint statement" }
+  ],
+  "unknown": [
+    "Whether an agreement will be reached before the placeholder deadline.",
+    "What the remaining disagreements are."
+  ],
+  "sources": [
+    { "title": "Sample joint statement (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/veldmark/joint-statement", "type": "primary" },
+    { "title": "Sample constitutional office notice (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/veldmark/deadline-notice", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-09T05:30:00Z", "note": "Sample live blog started." },
+    { "at": "2026-11-09T09:40:00Z", "note": "Latest sample update added." }
+  ]
+}

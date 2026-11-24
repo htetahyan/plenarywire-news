@@ -1,0 +1,21 @@
+{
+  "dryRun": true,
+  "draftOnly": true,
+  "provider": "stub",
+  "intervalMinutes": 30,
+  "maxCandidatesPerRun": 6,
+  "maxModelCallsPerRun": 6,
+  "maxTokensPerRun": 12000,
+  "maxFeedBytes": 2000000,
+  "maxItemsPerFeed": 50,
+  "firstRunWindowHours": 48,
+  "requestTimeoutMs": 15000,
+  "maxRetries": 2,
+  "backoffBaseSeconds": 60,
+  "backoffMaxSeconds": 3600,
+  "lockStaleMinutes": 25,
+  "maxFailedSourcesBeforeAbort": 3,
+  "userAgent": "PlenaryWire-dryrun/0.1 (preview; draft-only; contact placeholder)",
+  "stateDir": "pipeline/state",
+  "draftsDir": "drafts"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "sample-us-placeholder-agency-rule",
+  "sample": true,
+  "topic": "us-politics",
+  "label": "Fact",
+  "headline": "Sample: Fictional federal-style agency opens comment period on placeholder rule",
+  "dek": "A sample US-politics article about an invented agency rule. It demonstrates how {{name}} explains comment periods and effective dates.",
+  "publishedAt": "2026-11-06T15:30:00Z",
+  "updatedAt": "2026-11-07T09:00:00Z",
+  "whatHappened": [
+    "The Office of Placeholder Standards, a fictional agency invented for this sample, opened a 60-day comment period on a placeholder rule about public-record formats.",
+    "The sample notice says the rule would not take effect before a placeholder date next year."
+  ],
+  "whyItMatters": [
+    "In this sample, a comment period is the stage where the public can respond before a rule is finalised, so the effective date is still open."
+  ],
+  "confirmed": [
+    "A 60-day comment period opened (sample notice).",
+    "The rule would not take effect before a placeholder date (sample notice)."
+  ],
+  "attributed": [
+    { "claim": "The rule will save agencies money.", "attributedTo": "the fictional Office of Placeholder Standards, in a sample summary" }
+  ],
+  "unknown": [
+    "How many comments will be filed.",
+    "Whether the final rule will differ from the proposal."
+  ],
+  "sources": [
+    { "title": "Sample proposed-rule notice (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/us/proposed-rule", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-06T15:30:00Z", "note": "Sample article published." },
+    { "at": "2026-11-07T09:00:00Z", "note": "Clarified the placeholder effective date." }
+  ]
+}

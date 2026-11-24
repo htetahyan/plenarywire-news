@@ -1,0 +1,14 @@
+{
+  "name": "plenarywire",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PlenaryWire — independent US/EU politics-led news site (in development, preview only).",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/check.mjs && node pipeline/test.mjs",
+    "pipeline:dry-run": "node pipeline/checker.mjs",
+    "deploy:preview": "npm run build && npx wrangler pages deploy dist --project-name plenarywire-preview --branch main"
+  },
+  "engines": { "node": ">=20" }
+}

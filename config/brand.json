@@ -1,0 +1,43 @@
+{
+  "_comment": "Single source of truth for the publication's brand. Change the name here; build.mjs, check.mjs, the web app (web/scripts/sync-assets.mjs) and every {{token}} in content/ read from this file.",
+  "name": "PlenaryWire",
+  "shortName": "PW",
+  "tagline": "Politics and policy, US and EU.",
+  "wordmark": {
+    "primary": "Plenary",
+    "accent": "Wire",
+    "separator": ""
+  },
+  "deskName": "PlenaryWire Desk",
+  "themeColorLight": "#fbfaf7",
+  "themeColorDark": "#0e1013",
+  "colors": {
+    "accent": "#1f47d1",
+    "accentDark": "#8fb0ff",
+    "accentSoft": "#e8edfc",
+    "accentSoftDark": "#1a2446",
+    "ink": "#0f1a3c",
+    "inkDark": "#eef1f8",
+    "markTop": "#2b57e8",
+    "markBottom": "#132a7c",
+    "signal": "#f5a524"
+  },
+  "manifestThemeColor": "#132a7c",
+  "logo": {
+    "mark": "/brand/plenarywire-mark.svg",
+    "full": "/brand/plenarywire-logo.svg",
+    "png512": "/brand/icon-512.png",
+    "og": "/brand/og-default.jpg",
+    "publisher": "/brand/publisher-logo-600x60.png"
+  },
+  "aiDisclosure": "",
+  "_aiDisclosure": "Optional disclosure line. Empty = hidden everywhere. When set, it is shown as a note at the top of every article and in the footer.",
+  "siteUrl": "",
+  "contactEmail": "",
+  "legalEffectiveDate": "2026-11-10",
+  "governingLaw": "",
+  "_legal": "siteUrl, contactEmail, legalEffectiveDate, governingLaw, controllerName, mailboxProvider, complaintOwner: fill before public launch. Empty contactEmail shows coming soon. Empty governingLaw/controller/mailbox/complaintOwner omit those clauses.",
+  "controllerName": "",
+  "mailboxProvider": "",
+  "complaintOwner": ""
+}

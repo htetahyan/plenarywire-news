@@ -1,0 +1,34 @@
+{
+  "slug": "sample-tech-placeholder-image-labels",
+  "sample": true,
+  "topic": "tech",
+  "label": "Fact",
+  "headline": "Sample: Fictional regulator proposes placeholder labels for digitally altered images",
+  "dek": "A sample tech-and-policy article about an invented regulator in the fictional state of Northmere. All details are placeholders.",
+  "publishedAt": "2026-11-09T04:15:00Z",
+  "updatedAt": "2026-11-09T04:15:00Z",
+  "whatHappened": [
+    "The Northmere Digital Office, a fictional regulator invented for this sample, published a placeholder proposal requiring visible labels on digitally altered images.",
+    "The sample proposal is open for comment for eight weeks."
+  ],
+  "whyItMatters": [
+    "In this sample, labelling rules would affect how platforms in the fictional state display images, and show how {{name}} explains a proposal before it becomes law."
+  ],
+  "confirmed": [
+    "A proposal was published (sample notice).",
+    "Comments are open for eight weeks (sample notice)."
+  ],
+  "attributed": [
+    { "claim": "Labels will help readers spot altered images.", "attributedTo": "the fictional Northmere Digital Office, in a sample summary" }
+  ],
+  "unknown": [
+    "How the labels would be enforced.",
+    "Whether the proposal will change after comments."
+  ],
+  "sources": [
+    { "title": "Sample regulator proposal (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/northmere/image-labels", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-09T04:15:00Z", "note": "Sample article published." }
+  ]
+}

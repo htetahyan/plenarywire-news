@@ -1,0 +1,38 @@
+{
+  "slug": "sample-opinion-dated-records",
+  "sample": true,
+  "topic": "us-politics",
+  "label": "Opinion",
+  "headline": "Sample opinion: Placeholder argument for publishing every hearing record with a timestamp",
+  "dek": "A sample opinion piece written to test how {{name}} labels opinion. It argues a placeholder position about fictional institutions.",
+  "publishedAt": "2026-11-05T10:00:00Z",
+  "updatedAt": "2026-11-05T10:00:00Z",
+  "whatHappened": [
+    "This is a sample opinion piece. It does not report a news event. It uses the fictional Sample City Council as its example."
+  ],
+  "whyItMatters": [
+    "Opinion: placeholder argument that public bodies such as the fictional Sample City Council should publish every hearing record with a clear timestamp and time zone, so readers can see when each decision was made."
+  ],
+  "confirmed": [
+    "The Sample City Council is fictional and invented for this sample."
+  ],
+  "attributed": [],
+  "unknown": [
+    "Not applicable: this is a sample opinion piece."
+  ],
+  "sources": [
+    {
+      "title": "Sample city council records page (placeholder)",
+      "publisher": "Example.org placeholder",
+      "url": "https://example.org/sample/city-council/records",
+      "type": "primary"
+    }
+  ],
+  "changelog": [
+    {
+      "at": "2026-11-05T10:00:00Z",
+      "note": "Sample opinion published."
+    }
+  ],
+  "pullQuote": "Readers should be able to see exactly when each decision was made, and in which time zone."
+}

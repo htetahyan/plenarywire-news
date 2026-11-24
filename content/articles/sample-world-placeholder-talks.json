@@ -1,0 +1,34 @@
+{
+  "slug": "sample-world-placeholder-talks",
+  "sample": true,
+  "topic": "world",
+  "label": "Fact",
+  "headline": "Sample: Fictional neighbours Northmere and Veldmark open placeholder border talks",
+  "dek": "A sample world-news article about invented talks between two fictional states. All names, dates and documents are placeholders.",
+  "publishedAt": "2026-11-07T08:45:00Z",
+  "updatedAt": "2026-11-07T08:45:00Z",
+  "whatHappened": [
+    "Delegations from Northmere and Veldmark, two fictional states used across these samples, opened a first round of placeholder talks on a disputed river crossing.",
+    "A sample joint notice says the talks will run for two days."
+  ],
+  "whyItMatters": [
+    "In this sample, talks over a single crossing show how a local dispute can become a test of wider relations between neighbours."
+  ],
+  "confirmed": [
+    "The first round opened on a placeholder date (sample joint notice).",
+    "The talks are scheduled for two days (sample joint notice)."
+  ],
+  "attributed": [
+    { "claim": "Both sides want a quick agreement.", "attributedTo": "the fictional Northmere foreign ministry, in a sample statement" }
+  ],
+  "unknown": [
+    "Whether a second round has been planned.",
+    "What either side has proposed."
+  ],
+  "sources": [
+    { "title": "Sample joint notice (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/world/joint-notice", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-07T08:45:00Z", "note": "Sample article published." }
+  ]
+}

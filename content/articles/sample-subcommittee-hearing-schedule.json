@@ -1,0 +1,35 @@
+{
+  "slug": "sample-subcommittee-hearing-schedule",
+  "sample": true,
+  "topic": "us-politics",
+  "label": "Fact",
+  "headline": "Sample: Placeholder Senate subcommittee schedules hearing on a fictional transit bill",
+  "dek": "A sample US-politics article with an invented committee and bill, used to test the {{name}} article layout. Nothing here describes real events.",
+  "publishedAt": "2026-11-09T06:00:00Z",
+  "updatedAt": "2026-11-09T06:00:00Z",
+  "whatHappened": [
+    "A placeholder Senate subcommittee, invented for this sample, posted a notice scheduling a hearing on the fictional Sample Transit Act for a placeholder date.",
+    "The sample notice lists three placeholder witness slots and no named witnesses."
+  ],
+  "whyItMatters": [
+    "A hearing notice is often the first public step for a bill. In this sample it shows how {{name}} would explain where a bill sits in the process without predicting the outcome."
+  ],
+  "confirmed": [
+    "A hearing notice for the fictional bill was posted (sample notice).",
+    "The notice lists three witness slots (sample notice)."
+  ],
+  "attributed": [
+    { "claim": "The bill has broad support among members.", "attributedTo": "a placeholder subcommittee spokesperson, in a sample email" }
+  ],
+  "unknown": [
+    "Who the witnesses will be.",
+    "Whether a vote will follow the hearing."
+  ],
+  "sources": [
+    { "title": "Sample hearing notice (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/us/hearing-notice", "type": "primary" },
+    { "title": "Sample text of the fictional Sample Transit Act", "publisher": "Example.org placeholder", "url": "https://example.org/sample/us/transit-act-text", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-09T06:00:00Z", "note": "Sample article published." }
+  ]
+}

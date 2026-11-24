@@ -1,0 +1,7 @@
+{
+  "_comment": "Hand-picked Wikimedia Commons files used ONLY when a US source has no captioned official photo. Matched against the source TITLE. The licence and author are re-checked against the Commons API every time before use (PD, CC0, CC BY, CC BY-SA only; agency photographers rejected). Non-government photographers are not listed (e.g. the 2025 First Lady portrait by Régine Mahaux is deliberately excluded).",
+  "commons": [
+    { "id": "trump-2025", "titleMatch": "\\b(President(ial)? (Donald J\\. )?Trump|Presidential (Message|Proclamation)|Remarks by President)\\b", "file": "File:Official Presidential Portrait of President Donald J. Trump (2025).jpg", "alt": "Official presidential portrait of Donald J. Trump, 2025", "portrait": true },
+    { "id": "blanche-ag", "titleMatch": "\\bTodd Blanche\\b", "file": "File:AG Todd Blanche Official Portrait.jpg", "alt": "Official portrait of Todd Blanche, U.S. Department of Justice", "portrait": true }
+  ]
+}

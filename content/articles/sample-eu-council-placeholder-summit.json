@@ -1,0 +1,35 @@
+{
+  "slug": "sample-eu-council-placeholder-summit",
+  "sample": true,
+  "topic": "eu-politics",
+  "label": "Fact",
+  "headline": "Sample: Leaders of a fictional union agree placeholder summit agenda in Sampleburg",
+  "dek": "A sample EU-politics article about an invented summit of the fictional Union of Northern States. It shows how {{name}} reports an agreed agenda without predicting outcomes.",
+  "publishedAt": "2026-11-08T11:00:00Z",
+  "updatedAt": "2026-11-08T18:20:00Z",
+  "whatHappened": [
+    "Leaders of the Union of Northern States, a fictional bloc invented for this sample, agreed a three-item agenda for a placeholder summit in the fictional city of Sampleburg.",
+    "The sample agenda lists placeholder items on energy grids, border paperwork and a joint research fund."
+  ],
+  "whyItMatters": [
+    "In this sample, an agreed agenda signals which topics leaders are prepared to discuss, but it does not mean any decision has been taken."
+  ],
+  "confirmed": [
+    "A three-item agenda was agreed (sample communique).",
+    "The summit is scheduled for a placeholder date in December (sample communique)."
+  ],
+  "attributed": [
+    { "claim": "The research fund will be the hardest item to agree.", "attributedTo": "a fictional diplomat, speaking in a sample background briefing" }
+  ],
+  "unknown": [
+    "Whether any of the three items will produce a formal decision.",
+    "How the fictional research fund would be financed."
+  ],
+  "sources": [
+    { "title": "Sample summit communique (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/eu/summit-communique", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-08T11:00:00Z", "note": "Sample article published." },
+    { "at": "2026-11-08T18:20:00Z", "note": "Added the placeholder summit date from the sample communique." }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "plenarywire",
+  "main": "worker.ts",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "workers_dev": true,
+  "preview_urls": false,
+  "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
+  "observability": { "enabled": true },
+  "triggers": { "crons": [] },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "newsdesk-24", "database_id": "89970565-8ab1-40bb-8c60-07c89a090301", "migrations_dir": "migrations" }
+  ],
+  "kv_namespaces": [
+    { "binding": "KV", "id": "9bbacbc42d2d41e0923ccc6fa35c8fc6" }
+  ],
+  // Licensed lead images, cached as resized webp (R2 free tier; Images free plan transformations).
+  "r2_buckets": [
+    { "binding": "IMG", "bucket_name": "plenarywire-images" }
+  ],
+  "images": { "binding": "IMAGES" },
+  "vars": {
+    "INDEXING_ENABLED": "false",
+    "SITE_URL": "https://plenarywire.htetahyan.workers.dev",
+    "GEMINI_MODEL": "gemini-3.5-flash",
+    "GEMINI_ENDPOINT": "vertex-express",
+    "PIPELINE_ENABLED": "false",  // off until a domain is bought; also triggers.crons is empty
+    "MAX_NEW_PER_RUN": "5",
+    "MAX_NEW_PER_DAY": "150",
+    "MAX_IMAGES_PER_RUN": "4"
+  }
+  // Secrets (set with `wrangler secret put NAME` via stdin, never in this file):
+  //   GEMINI_API_KEY, ADMIN_PASSWORD
+}

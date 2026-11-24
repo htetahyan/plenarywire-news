@@ -1,0 +1,61 @@
+{
+  "slug": "sample-placeholder-commission-consultation",
+  "sample": true,
+  "topic": "eu-politics",
+  "label": "Analysis",
+  "headline": "Sample analysis: What a fictional EU-style consultation on placeholder labelling rules could change",
+  "dek": "A sample analysis piece about an invented consultation by the fictional Placeholder Commission. It demonstrates how analysis is labelled separately from facts.",
+  "publishedAt": "2026-11-07T14:00:00Z",
+  "updatedAt": "2026-11-08T16:45:00Z",
+  "whatHappened": [
+    "The Placeholder Commission, a fictional body invented for this sample, opened a public consultation on placeholder product-labelling rules.",
+    "The sample consultation runs for a placeholder period of twelve weeks."
+  ],
+  "whyItMatters": [
+    "This is analysis: if the fictional rules were adopted, sample manufacturers might need to change labels, and sample regulators in member states of the fictional union would have to enforce them.",
+    "Consultations do not decide anything on their own; they gather views before a proposal is drafted."
+  ],
+  "confirmed": [
+    "The consultation opened on a placeholder date (sample notice).",
+    "It runs for twelve weeks (sample notice)."
+  ],
+  "attributed": [
+    {
+      "claim": "The rules would reduce consumer confusion.",
+      "attributedTo": "the fictional Placeholder Commission, in a sample summary"
+    },
+    {
+      "claim": "The rules would raise costs for small firms.",
+      "attributedTo": "a fictional business association, in a sample position paper"
+    }
+  ],
+  "unknown": [
+    "What a formal proposal would contain.",
+    "How many responses the consultation will receive."
+  ],
+  "sources": [
+    {
+      "title": "Sample consultation notice (placeholder)",
+      "publisher": "Example.org placeholder",
+      "url": "https://example.org/sample/eu/consultation-notice",
+      "type": "primary"
+    },
+    {
+      "title": "Sample business association position paper",
+      "publisher": "Example.org placeholder",
+      "url": "https://example.org/sample/eu/position-paper",
+      "type": "secondary"
+    }
+  ],
+  "changelog": [
+    {
+      "at": "2026-11-07T14:00:00Z",
+      "note": "Sample analysis published."
+    },
+    {
+      "at": "2026-11-08T16:45:00Z",
+      "note": "Added the sample business association's attributed view."
+    }
+  ],
+  "pullQuote": "Consultations do not decide anything on their own; they gather views before a proposal is drafted."
+}

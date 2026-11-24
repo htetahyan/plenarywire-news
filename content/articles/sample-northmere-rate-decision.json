@@ -1,0 +1,33 @@
+{
+  "slug": "sample-northmere-rate-decision",
+  "sample": true,
+  "topic": "economy-policy",
+  "label": "Fact",
+  "headline": "Sample: Fictional Northmere central bank holds placeholder interest rate",
+  "dek": "A sample economy-and-policy article about an invented central bank decision in the fictional state of Northmere. Figures are placeholders.",
+  "publishedAt": "2026-11-06T12:00:00Z",
+  "updatedAt": "2026-11-06T12:00:00Z",
+  "whatHappened": [
+    "The central bank of Northmere, a fictional state used for this sample, kept its placeholder policy rate at 3.25 percent.",
+    "The sample decision statement says the next placeholder review is in six weeks."
+  ],
+  "whyItMatters": [
+    "In this sample, a held rate affects placeholder borrowing costs and shows how {{name}} would connect a policy decision to its political context."
+  ],
+  "confirmed": [
+    "The placeholder rate stays at 3.25 percent (sample statement).",
+    "The next review is in six weeks (sample statement)."
+  ],
+  "attributed": [
+    { "claim": "Inflation is expected to ease next year.", "attributedTo": "the fictional Northmere central bank, in a sample statement" }
+  ],
+  "unknown": [
+    "Whether the fictional finance ministry will respond with fiscal measures."
+  ],
+  "sources": [
+    { "title": "Sample central bank decision statement (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/northmere/rate-statement", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-06T12:00:00Z", "note": "Sample article published." }
+  ]
+}

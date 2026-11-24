@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.open-next/
+.wrangler/
+.dev.vars*
+public/assets/
+src/generated/
+next-env.d.ts
+*.tsbuildinfo
+.test-out/

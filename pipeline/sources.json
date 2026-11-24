@@ -1,0 +1,66 @@
+{
+  "_comment": "Allowlist of sources the dry-run checker may poll. Only enabled:true sources are fetched. Rights are UNVERIFIED unless stated; nothing here is cleared for republication.",
+  "sources": [
+    {
+      "id": "whitehouse-news",
+      "name": "The White House — News feed",
+      "url": "https://www.whitehouse.gov/news/feed/",
+      "type": "rss",
+      "tier": "official",
+      "topic": "us-politics",
+      "enabled": true,
+      "mode": "link-and-summarise",
+      "rights": "official-public-unverified",
+      "notes": "Official statements are attributed claims, not ground truth. Dry-run test source."
+    },
+    {
+      "id": "ec-presscorner",
+      "name": "European Commission — Press corner (press releases)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+      "type": "rss",
+      "tier": "official",
+      "topic": "eu-politics",
+      "enabled": true,
+      "mode": "link-and-summarise",
+      "rights": "official-public-unverified",
+      "notes": "Official statements are attributed claims. Dry-run test source."
+    },
+    {
+      "id": "federal-register-presdocs",
+      "name": "Federal Register — Presidential documents",
+      "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Btype%5D%5B%5D=PRESDOCU",
+      "type": "rss",
+      "tier": "official",
+      "topic": "us-politics",
+      "enabled": false,
+      "mode": "link-and-summarise",
+      "rights": "official-public-unverified",
+      "notes": "Candidate primary-document source; disabled until approved."
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "type": "manual",
+      "tier": "established-newsroom",
+      "topic": "world",
+      "enabled": false,
+      "mode": "link-and-summarise",
+      "rights": "link-and-summarise-only",
+      "automatedAccess": false,
+      "notes": "Link and summarise in our own words only. No automated access, scraping or feeds from reuters.com without written consent (robots.txt). No copying of Reuters text, photos, video or graphics. Must stay disabled for automated polling."
+    },
+    {
+      "id": "open-newswire-cc",
+      "name": "CC / Open Newswire candidates (forwarded by Htet)",
+      "url": "",
+      "type": "rss",
+      "tier": "candidate",
+      "topic": "world",
+      "enabled": false,
+      "mode": "not-cleared",
+      "rights": "not-cleared",
+      "notes": "Candidates only. Licence terms, attribution and feed access NOT verified. Disabled until cleared."
+    }
+  ]
+}

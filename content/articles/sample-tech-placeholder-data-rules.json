@@ -1,0 +1,31 @@
+{
+  "slug": "sample-tech-placeholder-data-rules",
+  "sample": true,
+  "topic": "tech",
+  "label": "Analysis",
+  "headline": "Sample analysis: What fictional data-sharing rules in Sampleburg could mean for small apps",
+  "dek": "A sample analysis piece about invented data rules in the fictional city of Sampleburg, written to test labelling of analysis.",
+  "publishedAt": "2026-11-08T13:00:00Z",
+  "updatedAt": "2026-11-08T13:00:00Z",
+  "whatHappened": [
+    "The fictional Sampleburg city government adopted placeholder rules on how apps may share location data, according to a sample ordinance."
+  ],
+  "whyItMatters": [
+    "This is analysis: in this sample, small app developers might need new consent screens, while larger firms may already comply."
+  ],
+  "confirmed": [
+    "A placeholder ordinance was adopted (sample record)."
+  ],
+  "attributed": [
+    { "claim": "The rules will cost small developers time.", "attributedTo": "a fictional developers' group, in a sample letter" }
+  ],
+  "unknown": [
+    "When the rules take effect."
+  ],
+  "sources": [
+    { "title": "Sample city ordinance (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/sampleburg/ordinance", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-08T13:00:00Z", "note": "Sample analysis published." }
+  ]
+}

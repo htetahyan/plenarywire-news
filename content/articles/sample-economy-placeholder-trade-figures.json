@@ -1,0 +1,31 @@
+{
+  "slug": "sample-economy-placeholder-trade-figures",
+  "sample": true,
+  "topic": "economy-policy",
+  "label": "Fact",
+  "headline": "Sample: Fictional union publishes placeholder quarterly trade figures",
+  "dek": "A sample economy article with invented trade figures from the fictional Union of Northern States. Numbers are placeholders.",
+  "publishedAt": "2026-11-09T03:00:00Z",
+  "updatedAt": "2026-11-09T03:00:00Z",
+  "whatHappened": [
+    "The statistics office of the Union of Northern States, a fictional bloc, published placeholder quarterly trade figures showing exports up 1.2 percent (sample figure)."
+  ],
+  "whyItMatters": [
+    "In this sample, trade figures feed into the fictional union's budget debate and show how {{name}} connects data releases to political decisions."
+  ],
+  "confirmed": [
+    "Exports rose 1.2 percent in the quarter (sample release)."
+  ],
+  "attributed": [
+    { "claim": "Growth will continue next quarter.", "attributedTo": "the fictional union's trade commissioner, in a sample statement" }
+  ],
+  "unknown": [
+    "Whether the figures will be revised."
+  ],
+  "sources": [
+    { "title": "Sample statistics release (placeholder)", "publisher": "Example.org placeholder", "url": "https://example.org/sample/uns/trade-release", "type": "primary" }
+  ],
+  "changelog": [
+    { "at": "2026-11-09T03:00:00Z", "note": "Sample article published." }
+  ]
+}

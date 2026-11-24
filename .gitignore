@@ -1,0 +1,10 @@
+node_modules/
+dist/
+drafts/
+pipeline/state/
+.env*
+.wrangler/
+shots/*.tmp
+.secrets/
+web/public/brand/
+web/public/favicon.ico

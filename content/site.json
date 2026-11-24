@@ -1,0 +1,32 @@
+{
+  "description": "{{name}} is an independent news publication in development, covering US and EU politics and major world news. This preview contains sample content only.",
+  "contact": "",
+  "contactNote": "A public contact inbox has not been published yet.",
+  "topics": {
+    "us-politics": {
+      "name": "US politics",
+      "description": "Congress, the White House, the courts, federal agencies, elections and state politics with national effect.",
+      "short": "US"
+    },
+    "eu-politics": {
+      "name": "EU politics",
+      "description": "The Commission, Parliament, Council, EU courts and member-state politics with EU-wide effect.",
+      "short": "EU"
+    },
+    "world": {
+      "name": "World",
+      "description": "Major international politics, diplomacy, conflicts and summits.",
+      "short": "World"
+    },
+    "economy-policy": {
+      "name": "Economy & policy",
+      "description": "Economic, social and technology policy where it connects to political decisions.",
+      "short": "Economy"
+    },
+    "tech": {
+      "name": "Tech & policy",
+      "short": "Tech",
+      "description": "Technology regulation, platforms, algorithms and data policy where they connect to political decisions."
+    }
+  }
+}
